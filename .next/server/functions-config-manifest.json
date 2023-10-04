@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "functions": {
+    "/projects": {},
+    "/": {},
+    "/service": {},
+    "/testimonials": {},
+    "/team": {}
+  }
+}
